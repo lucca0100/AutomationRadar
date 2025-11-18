@@ -1,0 +1,17 @@
+C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Data\bin\Debug\net8.0\AutomationRadar.Data.deps.json
+C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Data\bin\Debug\net8.0\AutomationRadar.Data.dll
+C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Data\bin\Debug\net8.0\AutomationRadar.Data.pdb
+C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Data\bin\Debug\net8.0\AutomationRadar.Model.dll
+C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Data\bin\Debug\net8.0\AutomationRadar.Model.pdb
+C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Data\obj\Debug\net8.0\AutomationRadar.Data.csproj.AssemblyReference.cache
+C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Data\obj\Debug\net8.0\AutomationRadar.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Data\obj\Debug\net8.0\AutomationRadar.Data.AssemblyInfoInputs.cache
+C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Data\obj\Debug\net8.0\AutomationRadar.Data.AssemblyInfo.cs
+C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Data\obj\Debug\net8.0\AutomationRadar.Data.csproj.CoreCompileInputs.cache
+C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Data\obj\Debug\net8.0\Automati.3AC4F844.Up2Date
+C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Data\obj\Debug\net8.0\AutomationRadar.Data.dll
+C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Data\obj\Debug\net8.0\refint\AutomationRadar.Data.dll
+C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Data\obj\Debug\net8.0\AutomationRadar.Data.pdb
+C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Data\obj\Debug\net8.0\ref\AutomationRadar.Data.dll
+C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Data\bin\Debug\net8.0\AutomationRadar.Data.runtimeconfig.json
+C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Data\obj\Debug\net8.0\AutomationRadar.Data.genruntimeconfig.cache
