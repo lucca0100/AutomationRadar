@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutomationRadar.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e4ba5965124e6aca13a1f150874866bda8fbc03")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutomationRadar.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutomationRadar.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

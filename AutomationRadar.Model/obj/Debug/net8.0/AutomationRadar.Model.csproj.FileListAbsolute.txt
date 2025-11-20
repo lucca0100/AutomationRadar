@@ -9,3 +9,15 @@ C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Model\obj\Debug\
 C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Model\obj\Debug\net8.0\refint\AutomationRadar.Model.dll
 C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Model\obj\Debug\net8.0\AutomationRadar.Model.pdb
 C:\Users\haruo\OneDrive\Desktop\AutomationRadar\AutomationRadar.Model\obj\Debug\net8.0\ref\AutomationRadar.Model.dll
+C:\Users\Matheus\Desktop\AutomationRadar\AutomationRadar.Model\bin\Debug\net8.0\AutomationRadar.Model.deps.json
+C:\Users\Matheus\Desktop\AutomationRadar\AutomationRadar.Model\bin\Debug\net8.0\AutomationRadar.Model.dll
+C:\Users\Matheus\Desktop\AutomationRadar\AutomationRadar.Model\bin\Debug\net8.0\AutomationRadar.Model.pdb
+C:\Users\Matheus\Desktop\AutomationRadar\AutomationRadar.Model\obj\Debug\net8.0\AutomationRadar.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\AutomationRadar\AutomationRadar.Model\obj\Debug\net8.0\AutomationRadar.Model.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\AutomationRadar\AutomationRadar.Model\obj\Debug\net8.0\AutomationRadar.Model.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\AutomationRadar\AutomationRadar.Model\obj\Debug\net8.0\AutomationRadar.Model.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\AutomationRadar\AutomationRadar.Model\obj\Debug\net8.0\AutomationRadar.Model.sourcelink.json
+C:\Users\Matheus\Desktop\AutomationRadar\AutomationRadar.Model\obj\Debug\net8.0\AutomationRadar.Model.dll
+C:\Users\Matheus\Desktop\AutomationRadar\AutomationRadar.Model\obj\Debug\net8.0\refint\AutomationRadar.Model.dll
+C:\Users\Matheus\Desktop\AutomationRadar\AutomationRadar.Model\obj\Debug\net8.0\AutomationRadar.Model.pdb
+C:\Users\Matheus\Desktop\AutomationRadar\AutomationRadar.Model\obj\Debug\net8.0\ref\AutomationRadar.Model.dll
