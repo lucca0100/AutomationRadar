@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj",
+      "projectUniqueName": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj",
       "projectName": "AutomationRadar.Model",
-      "projectPath": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj",
+      "projectPath": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj",
       "packagesPath": "C:\\Users\\lucca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Model\\obj\\",
+      "outputPath": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

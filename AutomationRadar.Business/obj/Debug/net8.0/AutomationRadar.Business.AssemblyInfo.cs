@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutomationRadar.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e4ba5965124e6aca13a1f150874866bda8fbc03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56b5572d5bd60d2ba3cb811ce17c77ce5ce49e8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutomationRadar.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutomationRadar.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

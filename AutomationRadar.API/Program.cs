@@ -4,33 +4,37 @@ using AutomationRadar.Business.Interfaces;
 using AutomationRadar.Business.Repositories;
 using System.Text.Json.Serialization;
 using AutomationRadar.API.Mappings;
+using Oracle.EntityFrameworkCore; 
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllers();
+builder.Services
+    .AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
+    });
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddAutoMapper(typeof(MappingProfile));
 
-builder.Services.AddControllers().AddJsonOptions(options =>
-{
-    options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
-});
-
+// DbContext com compatibilidade Oracle configurada
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
     var connectionString = builder.Configuration.GetConnectionString("OracleConnection");
-    options.UseOracle(connectionString);
+    options.UseOracle(connectionString, oracleOptions =>
+    {
+        // Gera SQL compatível com Oracle 19c (evita TRUE/FALSE)
+        oracleOptions.UseOracleSQLCompatibility(OracleSQLCompatibility.DatabaseVersion19);
+    });
 });
 
+// Repositórios
 builder.Services.AddScoped<IOccupationRepository, OccupationRepository>();
 builder.Services.AddScoped<IAutomationRiskRepository, AutomationRiskRepository>();
 builder.Services.AddScoped<ICareerTransitionRepository, CareerTransitionRepository>();
-
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.API\\AutomationRadar.API.csproj": {}
+    "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.API\\AutomationRadar.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.API\\AutomationRadar.API.csproj": {
+    "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.API\\AutomationRadar.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.API\\AutomationRadar.API.csproj",
+        "projectUniqueName": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.API\\AutomationRadar.API.csproj",
         "projectName": "AutomationRadar.API",
-        "projectPath": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.API\\AutomationRadar.API.csproj",
+        "projectPath": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.API\\AutomationRadar.API.csproj",
         "packagesPath": "C:\\Users\\lucca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.API\\obj\\",
+        "outputPath": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Business\\AutomationRadar.Business.csproj": {
-                "projectPath": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Business\\AutomationRadar.Business.csproj"
+              "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Business\\AutomationRadar.Business.csproj": {
+                "projectPath": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Business\\AutomationRadar.Business.csproj"
               },
-              "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj": {
-                "projectPath": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj"
+              "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj": {
+                "projectPath": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Business\\AutomationRadar.Business.csproj": {
+    "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Business\\AutomationRadar.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Business\\AutomationRadar.Business.csproj",
+        "projectUniqueName": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Business\\AutomationRadar.Business.csproj",
         "projectName": "AutomationRadar.Business",
-        "projectPath": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Business\\AutomationRadar.Business.csproj",
+        "projectPath": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Business\\AutomationRadar.Business.csproj",
         "packagesPath": "C:\\Users\\lucca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Business\\obj\\",
+        "outputPath": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -127,11 +127,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Data\\AutomationRadar.Data.csproj": {
-                "projectPath": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Data\\AutomationRadar.Data.csproj"
+              "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Data\\AutomationRadar.Data.csproj": {
+                "projectPath": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Data\\AutomationRadar.Data.csproj"
               },
-              "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj": {
-                "projectPath": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj"
+              "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj": {
+                "projectPath": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj"
               }
             }
           }
@@ -171,14 +171,14 @@
         }
       }
     },
-    "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Data\\AutomationRadar.Data.csproj": {
+    "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Data\\AutomationRadar.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Data\\AutomationRadar.Data.csproj",
+        "projectUniqueName": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Data\\AutomationRadar.Data.csproj",
         "projectName": "AutomationRadar.Data",
-        "projectPath": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Data\\AutomationRadar.Data.csproj",
+        "projectPath": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Data\\AutomationRadar.Data.csproj",
         "packagesPath": "C:\\Users\\lucca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Data\\obj\\",
+        "outputPath": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -199,8 +199,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj": {
-                "projectPath": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj"
+              "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj": {
+                "projectPath": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj"
               }
             }
           }
@@ -262,14 +262,14 @@
         }
       }
     },
-    "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj": {
+    "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj",
+        "projectUniqueName": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj",
         "projectName": "AutomationRadar.Model",
-        "projectPath": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj",
+        "projectPath": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Model\\AutomationRadar.Model.csproj",
         "packagesPath": "C:\\Users\\lucca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucca\\OneDrive\\Área de Trabalho\\AutomationRadar\\AutomationRadar.Model\\obj\\",
+        "outputPath": "C:\\Users\\lucca\\Source\\Repos\\AutomationRadar\\AutomationRadar.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
